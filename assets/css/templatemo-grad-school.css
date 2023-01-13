@@ -387,7 +387,12 @@ a.menu-link { display: none; }
   }
 
 }
+@media screen and (max-width: 400px) {
 
+  #bg-video{
+    min-height: 300vh;
+  }
+}
 
 /* Features */
 
@@ -485,7 +490,7 @@ section.features .col-4 {
 @media screen and (max-width: 767px) {
 
   section.features {
-    margin-top: 80vh;
+    margin-top: 100vh;
   }
   
   .features-content {
