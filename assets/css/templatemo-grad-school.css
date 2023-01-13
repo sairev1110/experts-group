@@ -371,11 +371,11 @@ a.menu-link { display: none; }
 @media screen and (max-width: 767px) {
 
   #bg-video{
-    min-height: 270vh;
+    min-height: 280vh;
   }
 
   .main-banner .caption {
-    top:25%;
+    top:20%;
   }
 
   .main-banner .caption h6 {
@@ -426,7 +426,7 @@ section.features .col-4 {
   padding: 10px;
   height: 160px;
   justify-content: center;
-  text-align: justify;
+
 }
 
 .features-content:hover {
