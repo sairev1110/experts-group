@@ -485,7 +485,7 @@ section.features .col-4 {
 @media screen and (max-width: 767px) {
 
   section.features {
-    margin-top: 100vh;
+    margin-top: 70vh;
   }
   
   .features-content {
