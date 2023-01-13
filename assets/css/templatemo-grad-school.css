@@ -371,7 +371,7 @@ a.menu-link { display: none; }
 @media screen and (max-width: 767px) {
 
   #bg-video{
-    min-height: 280vh;
+    min-height: 270vh;
   }
 
   .main-banner .caption {
@@ -387,12 +387,7 @@ a.menu-link { display: none; }
   }
 
 }
-@media screen and (max-width: 400px) {
 
-  #bg-video{
-    min-height: 300vh;
-  }
-}
 
 /* Features */
 
