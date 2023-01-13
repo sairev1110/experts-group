@@ -371,7 +371,7 @@ a.menu-link { display: none; }
 @media screen and (max-width: 767px) {
 
   #bg-video{
-    min-height: 280vh;
+    min-height: 250vh;
   }
 
   .main-banner .caption {
