@@ -1664,3 +1664,13 @@ footer p a:hover {
          color:#ffffff;
     }
 }
+
+.module-list em{
+  font-size: larger;
+  color: #f5a425;
+  font-style: normal;
+}
+
+.module-list li{
+  margin: 10px;
+}
