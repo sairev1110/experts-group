@@ -572,7 +572,7 @@ section.why-us {
     position: absolute;
     left: 50%;
     transform: translate(-50%);
-    bottom: 0;
+    bottom: 5px;
 }
 #tabs ul li a:before {
     transition: all 0.3s;
@@ -584,7 +584,7 @@ section.why-us {
     position: absolute;
     left: 50%;
     transform: translate(-50%);
-    bottom: -5px;
+    bottom: 0px;
 }
 #tabs ul li span {
   display: block;
