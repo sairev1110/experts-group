@@ -644,6 +644,12 @@ section.why-us {
   }
 
 }
+@media screen and (min-width: 767px) {
+
+.nodisplay{
+  display: none;
+}
+}
 
 
 /* Coming Soon */
