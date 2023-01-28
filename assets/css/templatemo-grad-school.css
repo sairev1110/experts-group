@@ -650,7 +650,11 @@ section.why-us {
   display: none;
 }
 }
-
+@media screen and (max-width: 767px) {
+.addressjust{
+  text-align: justify;
+}
+}
 
 /* Coming Soon */
 
