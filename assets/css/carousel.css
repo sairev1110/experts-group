@@ -3,9 +3,6 @@ body {
   background-color: rgba(22,34,57,0.95);
 }
 
-* {
-  font-family: "Recursive", sans-serif;
-}
 
 .slider-promotion {
   position: relative;

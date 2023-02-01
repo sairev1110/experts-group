@@ -1640,7 +1640,12 @@ footer p a:hover {
   padding: 10px;
 }
 
-
+@media screen and (min-width: 767px) {
+.ctmrisimgs{
+  width:450px;
+  margin-top: 100px;
+}
+}
 /* for desktop */
 .whatsapp_float {
   position:fixed;
@@ -1684,4 +1689,36 @@ footer p a:hover {
 
 .module-list li{
   margin: 10px;
+}
+
+.coursetext p{
+  font-size: 16px;
+}
+
+.card{
+  background-color: #121b2f;
+  margin: 10px auto;
+  box-shadow: 0px 2px 4px 0 rgba(0,0,0,0.2);
+  border-radius: 6px;
+  height: 100%;
+  transition: 0.3s;
+}
+.card:hover {
+box-shadow: 1px 10px 16px 0 rgba(255, 255, 255, 0.3);
+}
+.card-title{
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+.card-text{
+      font-weight: 500;
+color: #ffffff;
+}
+.card-image{
+  text-align: center;
+  margin: 5vh 0;
+}
+.card-text{
+  text-align: center;
 }
