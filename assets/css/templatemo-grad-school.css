@@ -1724,3 +1724,22 @@ color: #ffffff;
 .card-text{
   text-align: center;
 }
+
+.contained {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 15px;
+}
+.contained img {
+  width: 100%;
+  display: block;
+  transition: all 100ms ease-out;
+}
+.contained img:hover {
+  transform: scale(1.04);
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+}
+
+
